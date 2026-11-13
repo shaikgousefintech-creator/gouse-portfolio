@@ -1,12 +1,13 @@
 import type { Metadata } from "next";
 import "./globals.css";
 
-export const metadata: Metadata = {
-  title: "Your Name | Aspiring Data Engineer",
+
+export const metadata = {
+  title: "Shaik Gouse Basha | Aspiring Data Engineer",
   description:
-    "Personal portfolio showcasing data engineering, analytics, business intelligence and selected creative work.",
-  metadataBase: new URL("https://example.com")
+    "Personal portfolio of Shaik Gouse Basha, showcasing fintech experience, data engineering projects, analytics, business intelligence and creative work.",
 };
+
 
 export default function RootLayout({
   children
