@@ -865,3 +865,21 @@ h1,h2,h3,p{margin-top:0}
   background: #000;
   border: 1px solid #26342b;
 }
+
+.film-info {
+  margin-top: 20px;
+}
+
+.film-meta {
+  margin-bottom: 8px;
+}
+
+.film-info h3 {
+  margin-top: 0;
+  margin-bottom: 14px;
+}
+
+.film-info p {
+  margin-top: 0;
+  line-height: 1.7;
+}
