@@ -173,7 +173,13 @@ export default function Home() {
       <section className="intro-strip">
         <div className="section-wrap strip-inner">
           <span>MY FOCUS</span>
-          <p>Engineering reliable data foundations<span> Â· </span>Creating meaningful analytics<span> Â· </span>Learning continuously</p>
+          <p>
+  Engineering reliable data foundations
+  <span> · </span>
+  Creating meaningful analytics
+  <span> · </span>
+  Learning continuously
+</p>
         </div>
       </section>
 
@@ -373,7 +379,7 @@ export default function Home() {
       INDEPENDENT FILM · PARANORMAL HORROR
     </div>
 
-    <h3>The Last Email</h3>
+    <h3>The Last Email: </h3>
 
     <p>
       An employee working the night shift begins noticing
@@ -445,11 +451,13 @@ export default function Home() {
         <div className="contact-footer">
           <a className="brand" href="#home"><span className="brand-mark">G.</span><span>PORTFOLIO<span className="brand-dot">/</span></span></a>
           <div className="social-links">
-            <a href="https://github.com/yourusername" target="_blank" rel="noreferrer" aria-label="GitHub"><GitBranch size={18}/></a>
-            <a href="https://linkedin.com/in/yourusername" target="_blank" rel="noreferrer" aria-label="LinkedIn"><BriefcaseBusiness size={18}/></a>
-            <a href="mailto:your.email@example.com" aria-label="Email"><Mail size={18}/></a>
+            <a href="https://github.com/shaikgousefintech-creator/" target="_blank" rel="noreferrer" aria-label="GitHub"><GitBranch size={18}/></a>
+            <a href="https://www.linkedin.com/in/gouse-basha-shaik-5653a33b2/" target="_blank" rel="noreferrer" aria-label="LinkedIn"><BriefcaseBusiness size={18}/></a>
+            <a href="mailto:shaik.gouse.fintech@gmail.com" aria-label="Email"><Mail size={18}/></a>
           </div>
-          <span className="copyright">Â© {new Date().getFullYear()} Â· BUILT WITH CURIOSITY</span>
+          <span className="copyright">
+  © {new Date().getFullYear()} Shaik Gouse Basha · All rights reserved.
+</span>
         </div>
       </section>
     </main>
