@@ -1,0 +1,27 @@
+PERSONAL PORTFOLIO — START HERE
+
+1. Install Node.js LTS from https://nodejs.org/en/download
+   (You already have Node.js installed if `node -v` shows a version.)
+
+2. Open this `personal-portfolio` folder in Visual Studio Code.
+
+3. In VS Code, choose Terminal > New Terminal.
+
+4. Run these commands one at a time:
+
+   npm.cmd install
+   npm.cmd run dev
+
+5. Open http://localhost:3000 in your browser.
+
+If PowerShell says npm.ps1 cannot be loaded, use `npm.cmd` exactly as shown above.
+
+Do not open localhost until the terminal says the development server is ready.
+Keep that terminal open while viewing the website.
+
+Personalise the starter:
+- app/page.tsx: name, bio, skills, project details, links and filmmaking section
+- app/layout.tsx: browser title and description
+- public/resume.pdf: add your resume PDF using this exact filename
+
+The starter uses a dark black + emerald green theme.
