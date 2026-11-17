@@ -402,7 +402,7 @@ export default function Home() {
   ].map((role) => (
     <div className="film-credit-row" key={role}>
       <strong>{role}</strong>
-      <span>Shaik Gouse Basha</span>
+      <span>Gouse</span>
     </div>
   ))}
 
@@ -414,7 +414,7 @@ export default function Home() {
 
   <div className="film-credit-row">
     <strong>Cinematography</strong>
-    <span>P. Balaji</span>
+    <span>Balaji</span>
   </div>
 </div>
 
